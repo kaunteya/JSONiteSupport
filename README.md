@@ -1,4 +1,4 @@
-# LexiMacApp
+# JSONite
 
 This repo is for tracking issues reported by users
 
